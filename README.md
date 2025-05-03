@@ -74,4 +74,5 @@ This notebook is provided under the MIT License.
 
 ## Author
 
-Your Name (or your username on colab)
+Mohammed Khasim Ahmed Quadri
+(username: khasim007q
